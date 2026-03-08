@@ -1,0 +1,14 @@
+// overview description file for fy_encounter.bsp
+
+global
+{
+	ZOOM       1.39
+	ORIGIN       -431.60	 236.80		 252.00
+      	ROTATED       0
+}
+
+layer 
+{
+	IMAGE       "overviews/fy_encounter.bmp"
+	HEIGHT       -47.00
+}

@@ -1,0 +1,9 @@
+gfx\env\deskbk.tga
+gfx\env\deskdn.tga
+gfx\env\deskft.tga
+gfx\env\desklf.tga
+gfx\env\deskrt.tga
+gfx\env\deskup.tga
+sound\ambience\electric.wav
+maps\de_desktop.txt
+maps\de_desktop.bsp
